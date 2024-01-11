@@ -21,7 +21,7 @@ yarn add iconpicker-fontawesome-vue3
 <b style="text-transform:uppercase;color:blue">Import iconpicker-fontawesome-vue3 into your component</b>
 
 ```javascript
-import IconpickerFontawesome from "@iconpicker-fontawesome-vue3";
+import IconpickerFontawesome from "iconpicker-fontawesome-vue3";
 
 export default {
   name: "App",
