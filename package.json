@@ -1,6 +1,6 @@
 {
   "name": "iconpicker-fontawesome-vue3",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "main": "./dist/iconpicker-fontawesome-vue3.common.js",
   "module": "dist/iconpicker-fontawesome-vue3.esm.js",

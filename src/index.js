@@ -4,7 +4,7 @@ import IconpickerFontawesome from './components/IconpickerFontawesome.vue';
 export function install(Vue) {
   if (install.installed) return;
   install.installed = true;
-  Vue.component('biblioteca-simples-vue', IconpickerFontawesome);
+  Vue.component('iconpicker-fontawesome-vue3', IconpickerFontawesome);
 }
 
 // Create module definition for Vue.use()
